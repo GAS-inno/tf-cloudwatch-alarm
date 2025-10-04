@@ -1,5 +1,9 @@
 # Local .terraform directories
+<<<<<<< HEAD
 **/.terraform/*
+=======
+.terraform/
+>>>>>>> 9567c3abacd9af4c7a683cd382d7e79325222f4a
 
 # .tfstate files
 *.tfstate
@@ -35,5 +39,8 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+<<<<<<< HEAD
 
 *.zip
+=======
+>>>>>>> 9567c3abacd9af4c7a683cd382d7e79325222f4a
